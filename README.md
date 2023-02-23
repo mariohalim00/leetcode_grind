@@ -20,11 +20,8 @@ Collections of LeetCode Questions and Solution Blind 75.
 
 
 ## Two Pointers
-
-
-
 | Problem                          | Difficulty | Done |
-| -------------------------------- | ---------- | ---- |~
+| -------------------------------- | ---------- | ---- |
 | Two SumValid Palindrome          | Easy       | Yes  |
 | Two Sum II Input Array Is Sorted | Medium     | Yes  |
 | 3Sum                             | Medium     | Yes  |
