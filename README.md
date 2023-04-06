@@ -1,6 +1,8 @@
 # leetcode_grind
 
-Collections of LeetCode Questions and Solution Blind 75.
+Collections of LeetCode/Hackerrank Questions and Solution for Blind 75 and more.
+
+## Leetcode
 Track progress using neetcode:
 [NeetCode.io](https://neetcode.io/practice)
 everything is organized based on the data structure/algorithm used
