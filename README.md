@@ -27,3 +27,9 @@ Collections of LeetCode Questions and Solution Blind 75.
 | 3Sum                             | Medium     | Yes  |
 | Container With Most Water        | Medium     | Yes  |
 | Trapping Rain Water              | Hard       | No   |
+
+
+## Samsung interview questions
+Use this [hackerrank link](https://www.hackerrank.com/contests/aadc/challenges)
+other resources:
+- [GitHub - Kachroo](https://github.com/s-kachroo/SamsungPractice)
